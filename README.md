@@ -5,7 +5,7 @@ This is a WIP draft of the Unity (Single File Web Component) Specification
 Unity Component Specification describes a new hypertext-like file format for creating Single-File Web Components (SFWC).
 
 # Use Cases
-Currently there are multiple JavaScript web frameworks that use an interoperable Single-File Web Component format. Not only are they a unifying formate between frameworks, but should aim to be a native playform implementation.
+Currently there are multiple JavaScript web frameworks that use an interoperable Single-File Web Component format. Not only are they a unifying formate between frameworks, but should aim to be a native platform implementation.
 
 # Unity Component Module
 **hello-world.ucm**
