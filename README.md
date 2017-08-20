@@ -79,7 +79,7 @@ export default {
 ```
 
 In the same way that:
-```javascript
+```jsx
 render(
    <JSX>I look and smell like HTML, but I'm not html, I'm JSX, I'm html-like</JSX>,
    document.body
